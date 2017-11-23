@@ -1,0 +1,42 @@
+p {
+	 font-size: 10px;
+	 font-family: 'Lato', sans-serif;
+	/* font-family: 'Oswald', sans-serif;
+    	 font-family: 'Playfair Display', serif;
+	 font-family: 'Indie Flower', cursive;
+	 font-family: 'Pacifico', cursive;*/
+
+
+}
+
+h1 {
+	margin: 0;
+	padding: 20px 0;
+	color:#DEE7EC;
+	text-shadow:3px 3px 1px black;
+}
+
+img {
+	display: block;
+	margin: 0 auto;
+}
+
+p, li {
+	font-size: 16px;
+	line-height: 2;
+	letter-spacing: 1px;
+}
+
+html {
+	background-color:#7EC7F5;
+}
+
+body {
+	width: 600px;
+	margin: 0 auto;
+	background-color:#0B2636;
+	padding:0 20px 20px 20px;
+	border: 5px solid black;
+}
+
+
